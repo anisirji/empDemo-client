@@ -1,0 +1,7 @@
+{
+  "name": "empDemo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
